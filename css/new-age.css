@@ -152,9 +152,9 @@ header {
   overflow-y: hidden;
   background: #773498; /*url("../img/bg-pattern.png")*/
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(#773498, #251b30);
+  background: -webkit-linear-gradient(#773498, #3c224e);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(#773498, #251b30);
+  background: linear-gradient(#773498, #3c224e);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
@@ -194,8 +194,8 @@ section.download {
   padding: 150px 0;
   position: relative;
   background: #251b30;
-  background: -webkit-linear-gradient(#251b30, #fe9b58);
-  background: linear-gradient(#251b30, #fe9b58);
+  background: -webkit-linear-gradient(#3c224e, #fff);
+  background: linear-gradient(#3c224e, #fff);
 }
 section.download h2 {
   margin-top: 0;
@@ -282,7 +282,7 @@ section.cta {
   -o-background-size: cover;
   background-position: center;
   background-image: url('');
-  padding: 250px 0;
+  padding: 150px 0;
 }
 section.cta .cta-content {
   position: relative;
@@ -388,8 +388,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #fe9b58;
-  background: -webkit-linear-gradient(#5fbcff, rgba(0, 208, 255, 0.15));
-  background: linear-gradient(#5fbcff, rgba(0, 208, 255, 0.15));
+  background: -webkit-linear-gradient(rgb(108, 184, 239), rgba(0, 208, 255, 0.15));
+  background: linear-gradient(rgb(108, 184, 239), rgba(0, 208, 255, 0.15));
 }
 .text-primary {
   color: #fdcc52;
