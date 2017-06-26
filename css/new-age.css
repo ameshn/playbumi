@@ -448,6 +448,10 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
+.strong {
+	font-weight: bold;
+}
+
 .bumi-logo
 {
 
