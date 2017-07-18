@@ -1,4 +1,49 @@
 {
-{"ts":"1499985920472","userid":"81acdc6000bf36941b7ad95398cd88ae","sessionid":"7821407566227519677","remote_ip":"24.68.36.69","platform":"WindowsEditor","sdk_ver":"u5.6.2p2","debug_device":true,"user_agent":"UnityPlayer/5.6.2p2 (http://unity3d.com)","submit_time":"1499985914841","name":"SessionEnd","custom_params":{"AppVersion":"0.0.4","Stickers":"6","SessionDuration":"207","SessionNumber":"15","StickerDuration":"0","LifetimeStickers":"21","LifetimeUniqueStickers":"10"},"appid":"da1fbf3d-15e5-467c-a809-65dbb7e05df2","type":"custom"},
-{"ts":"1499986617479","userid":"81acdc6000bf36941b7ad95398cd88ae","sessionid":"7821407566227519677","remote_ip":"24.68.36.69","platform":"WindowsEditor","sdk_ver":"u5.6.2p2","debug_device":true,"user_agent":"UnityPlayer/5.6.2p2 (http://unity3d.com)","submit_time":"1499986659720","name":"SessionEnd","custom_params":{"AppVersion":"0.0.4","Stickers":"1","SessionDuration":"73","SessionNumber":"18","StickerDuration":"0","LifetimeStickers":"24","LifetimeUniqueStickers":"11"},"appid":"da1fbf3d-15e5-467c-a809-65dbb7e05df2","type":"custom"},
+	"entries": [{
+			"ts": "1499985920472",
+			"userid": "81acdc6000bf36941b7ad95398cd88ae",
+			"sessionid": "7821407566227519677",
+			"remote_ip": "24.68.36.69",
+			"platform": "WindowsEditor",
+			"sdk_ver": "u5.6.2p2",
+			"debug_device": true,
+			"user_agent": "UnityPlayer/5.6.2p2 (http://unity3d.com)",
+			"submit_time": "1499985914841",
+			"name": "SessionEnd",
+			"custom_params": {
+				"AppVersion": "0.0.4",
+				"Stickers": "6",
+				"SessionDuration": "207",
+				"SessionNumber": "15",
+				"StickerDuration": "0",
+				"LifetimeStickers": "21",
+				"LifetimeUniqueStickers": "10"
+			},
+			"appid": "da1fbf3d-15e5-467c-a809-65dbb7e05df2",
+			"type": "custom"
+		},
+		{
+			"ts": "1499986617479",
+			"userid": "81acdc6000bf36941b7ad95398cd88ae",
+			"sessionid": "7821407566227519677",
+			"remote_ip": "24.68.36.69",
+			"platform": "WindowsEditor",
+			"sdk_ver": "u5.6.2p2",
+			"debug_device": true,
+			"user_agent": "UnityPlayer/5.6.2p2 (http://unity3d.com)",
+			"submit_time": "1499986659720",
+			"name": "SessionEnd",
+			"custom_params": {
+				"AppVersion": "0.0.4",
+				"Stickers": "1",
+				"SessionDuration": "73",
+				"SessionNumber": "18",
+				"StickerDuration": "0",
+				"LifetimeStickers": "24",
+				"LifetimeUniqueStickers": "11"
+			},
+			"appid": "da1fbf3d-15e5-467c-a809-65dbb7e05df2",
+			"type": "custom"
+		}
+	]
 }
